@@ -187,6 +187,7 @@ button:hover {
   padding: 30px;
   z-index: 100;
   width: 380px;
+  box-shadow: 0 0px 5px 1px hsl(217, 27%, 15%);
 }
 .profile .card .flex {
   gap: 10px;
@@ -290,6 +291,7 @@ button:hover {
   }
   .navbar ul {
     gap: 20px;
+    margin-bottom: 6px;
   }
   .navbar .logo img {
     width: 100px;
@@ -381,6 +383,7 @@ button:hover {
   }
   .navbar ul {
     gap: 20px;
+    margin-bottom: 6px;
   }
   .navbar .logo img {
     width: 100px;
